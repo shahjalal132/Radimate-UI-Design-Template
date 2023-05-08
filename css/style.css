@@ -1,0 +1,82 @@
+/*-----------------------------------------------------------------------------------
+
+ Theme Name: Website Design
+ Theme URI: http://
+ Description: The Multi-Purpose Onepage Template
+ Author: Shah jalal
+ Author URI: http://
+ Version: 1.0
+
+ Main Color   : 
+ main Font    : 
+
+-----------------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------
+
+ == Table Of Content
+
+	01 Typography
+	02 Buttons
+	03 Navbar
+	04 Header
+	05 Hero
+	06 Team
+	07 About
+	08 Portfolio
+	09 Numbers
+	10 Featruse
+ 
+
+---------------------------------------------------------------- */
+
+/*********************************
+    [Basic]
+*********************************/
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	list-style: none;
+	outline: none;
+}
+
+body {
+	color: #000;
+	line-height: 1.3;
+	font-weight: 400;
+	font-size: 14px;
+	font-family: ;
+}
+
+:root {
+	--primary-color: #00000;
+	--secondary-color: #cccccc;
+	--primary-font: 'tahoma';
+	--secondary-font: 'arial';
+}
+
+/*********************************
+    [Typhography]
+*********************************/
+
+h1 {}
+
+h2 {}
+
+h3 {}
+
+h4 {}
+
+h5 {}
+
+h6 {}
+
+p {}
+
+span {}
+
+a,
+a:hover {
+	text-decoration: none;
+}
